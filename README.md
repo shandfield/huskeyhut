@@ -1,5 +1,4 @@
 # huskeyhut
-# huskeyhut
 <!-- Creating a mobile-first application to have a responsive portfolio>
 
 <!-- Decided to make a portfolio not on myself at this time since I could be more creative and this is based on my dog>
